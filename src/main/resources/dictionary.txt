@@ -1,0 +1,9 @@
+Hello Привет
+Bye Пока
+Orange Апельсин
+Airplane Самолёт
+Newspaper Газета
+Window Окно
+Milk Молоко
+Sword Меч
+Cat Кошка
